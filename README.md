@@ -5,6 +5,7 @@ This library is compatible with micro:bit V1 and V2.
 
 ![3 micro:bit robots](https://microsoft.github.io/microbit-robot/assets/images/robots.jpg)
 
+-   [4tronix MiniBit](#4tronix-minibit)
 -   [DFRobot Maqueen](#dfrobot-maq)
 -   [DFRobot Maqueen Plus](#dfrobot-maq-plus)
 -   [Elecfreaks Cutebot](#cutebot)

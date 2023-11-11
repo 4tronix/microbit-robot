@@ -34,7 +34,8 @@
         "robots/kittenbotminilfr.ts",
         "robots/kittenbotrobotbit.ts",
         "robots/kittenbotnanobit.ts",
-        "robots/inksmithk8.ts"
+        "robots/inksmithk8.ts",
+	"robots/4tronixminibit.ts
     ],
     "testFiles": [
         "test.ts"
